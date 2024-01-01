@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
+theme: jekyll-theme-minimal
+title: Josh's homepage
+description: Bookmark this to keep an eye on my project updates!# Auto detect text files and perform LF normalization
 * text=auto
