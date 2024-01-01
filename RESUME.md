@@ -3,6 +3,8 @@ layout: page
 title: "Resume"
 permalink: /resume
 ---
+
+
 Joshua W. Pritchard
 1908 Inglewood Dr., Unit B, Charlottesville, VA 22901 • (215) 285-8839 • kce8uw@virginia.edu
 EDUCATION
